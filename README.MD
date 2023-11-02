@@ -8,7 +8,7 @@
 
 ### 安装typecho
 
-> 官网下载typecho文件放在typecho文件夹中
+> [官网]([Typecho Official Site](https://typecho.org/))下载typecho文件放在typecho文件夹中
 >
 > 解压typecho文件
 
